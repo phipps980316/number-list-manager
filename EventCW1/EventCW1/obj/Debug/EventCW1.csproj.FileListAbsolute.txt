@@ -1,0 +1,54 @@
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\bin\Debug\EventCW1.exe.config
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\bin\Debug\EventCW1.exe
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\bin\Debug\EventCW1.pdb
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\obj\Debug\EventCW1.csprojResolveAssemblyReference.cache
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\obj\Debug\EventCW1.frmMain.resources
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\obj\Debug\EventCW1.Properties.Resources.resources
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\obj\Debug\EventCW1.csproj.GenerateResource.Cache
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\obj\Debug\EventCW1.exe
+f:\my documents\visual studio 2015\Projects\EventCW1\EventCW1\obj\Debug\EventCW1.pdb
+D:\EventCW1\EventCW1\bin\Debug\EventCW1.exe.config
+D:\EventCW1\EventCW1\obj\Debug\EventCW1.exe
+D:\EventCW1\EventCW1\obj\Debug\EventCW1.pdb
+D:\EventCW1\EventCW1\bin\Debug\EventCW1.exe
+D:\EventCW1\EventCW1\bin\Debug\EventCW1.pdb
+D:\EventCW1\EventCW1\obj\Debug\EventCW1.csprojResolveAssemblyReference.cache
+D:\EventCW1\EventCW1\obj\Debug\EventCW1.frmMain.resources
+D:\EventCW1\EventCW1\obj\Debug\EventCW1.Properties.Resources.resources
+D:\EventCW1\EventCW1\obj\Debug\EventCW1.csproj.GenerateResource.Cache
+E:\EventCW1\EventCW1\bin\Debug\EventCW1.exe.config
+E:\EventCW1\EventCW1\obj\Debug\EventCW1.exe
+E:\EventCW1\EventCW1\obj\Debug\EventCW1.pdb
+F:\EventCW1\EventCW1\bin\Debug\EventCW1.exe.config
+F:\EventCW1\EventCW1\bin\Debug\EventCW1.exe
+F:\EventCW1\EventCW1\bin\Debug\EventCW1.pdb
+F:\EventCW1\EventCW1\obj\Debug\EventCW1.csprojResolveAssemblyReference.cache
+F:\EventCW1\EventCW1\obj\Debug\EventCW1.frmMain.resources
+F:\EventCW1\EventCW1\obj\Debug\EventCW1.Properties.Resources.resources
+F:\EventCW1\EventCW1\obj\Debug\EventCW1.csproj.GenerateResource.Cache
+F:\EventCW1\EventCW1\obj\Debug\EventCW1.exe
+F:\EventCW1\EventCW1\obj\Debug\EventCW1.pdb
+E:\EventCW1\EventCW1\bin\Debug\EventCW1.exe
+E:\EventCW1\EventCW1\bin\Debug\EventCW1.pdb
+E:\EventCW1\EventCW1\obj\Debug\EventCW1.csprojResolveAssemblyReference.cache
+E:\EventCW1\EventCW1\obj\Debug\EventCW1.frmMain.resources
+E:\EventCW1\EventCW1\obj\Debug\EventCW1.Properties.Resources.resources
+E:\EventCW1\EventCW1\obj\Debug\EventCW1.csproj.GenerateResource.Cache
+I:\EventCW1\EventCW1\bin\Debug\EventCW1.exe.config
+I:\EventCW1\EventCW1\obj\Debug\EventCW1.exe
+I:\EventCW1\EventCW1\obj\Debug\EventCW1.pdb
+I:\EventCW1\EventCW1\bin\Debug\EventCW1.exe
+I:\EventCW1\EventCW1\bin\Debug\EventCW1.pdb
+I:\EventCW1\EventCW1\obj\Debug\EventCW1.csprojResolveAssemblyReference.cache
+I:\EventCW1\EventCW1\obj\Debug\EventCW1.frmMain.resources
+I:\EventCW1\EventCW1\obj\Debug\EventCW1.Properties.Resources.resources
+I:\EventCW1\EventCW1\obj\Debug\EventCW1.csproj.GenerateResource.Cache
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\bin\Debug\EventCW1.exe.config
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\obj\Debug\EventCW1.exe
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\obj\Debug\EventCW1.pdb
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\bin\Debug\EventCW1.exe
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\bin\Debug\EventCW1.pdb
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\obj\Debug\EventCW1.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\obj\Debug\EventCW1.frmMain.resources
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\obj\Debug\EventCW1.Properties.Resources.resources
+C:\Users\Jonathan Phipps\Desktop\EventCW1\EventCW1\obj\Debug\EventCW1.csproj.GenerateResource.Cache
